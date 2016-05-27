@@ -1,1 +1,1 @@
-It's an android studio project on smart shopping layouts.
+Android studio project and apk file for smart shopping layouts.
